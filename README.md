@@ -14,6 +14,6 @@ LTSPICE models:
 
 #Support
 
-If you find this work useful, please consider some help, check out Patreon for more information
+If you find this work useful, please consider some support, check out Patreon for more information
 
 https://patreon.com/AMRC
