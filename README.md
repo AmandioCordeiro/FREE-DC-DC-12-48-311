@@ -6,4 +6,14 @@ This is an Open-source hardware project of step-up ressonant converters.
 LTSPICE models:
 -   12 to 321 volts
 -   24 to 321 volts
--   48 to 321 volts  
+-   48 to 321 volts
+
+  __________________________________
+
+  
+
+#Support
+
+If you find this work useful, please consider some help, check out Patreon for more information
+
+https://patreon.com/AMRC
