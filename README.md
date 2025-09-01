@@ -1,10 +1,10 @@
-# FREE-DC-DC   12v --> 321V
-Step up DC DC  12v to 321v 
+# FREE-DC-DC   >10v --> 321V
+Step up DC DC, more than 10v to 321v 
 
-This is an Open-source hardware project of step-up ressonant converters.
+This is a step-up ressonant converter project, open-source
 
 LTSPICE models:
--   12 to 321 volts
+- >10v to 321 volts
 
 
   __________________________________
